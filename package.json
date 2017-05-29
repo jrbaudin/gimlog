@@ -14,7 +14,7 @@
     "logging"
   ],
   "author": "Joel Baudin",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/karmadev/gimlog/issues"
   },
