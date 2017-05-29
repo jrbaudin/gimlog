@@ -2,15 +2,16 @@
     "compileOnSave": true,
     "compilerOptions": {
         "module": "commonjs",
-        "target": "es6",
+        "target": "es5",
         "removeComments": true,
         "noImplicitAny": true,
         "suppressImplicitAnyIndexErrors": true,
         "sourceMap": true,
         "declaration": true,
-        "pretty": false
+        "outDir": "lib",
+        "pretty": true
     },
     "files": [
-        "index.ts"
+        "src/index.ts"
     ]
 }
