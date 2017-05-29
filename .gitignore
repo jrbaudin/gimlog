@@ -56,3 +56,6 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# Built source files shouldn't be added to VCS
+lib

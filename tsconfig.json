@@ -8,10 +8,14 @@
         "suppressImplicitAnyIndexErrors": true,
         "sourceMap": true,
         "declaration": true,
-        "outDir": "lib",
+        "outDir":"./lib",
         "pretty": true
     },
-    "files": [
-        "src/index.ts"
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules",
+        "**/*.test.ts"
     ]
 }
