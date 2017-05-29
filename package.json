@@ -1,0 +1,22 @@
+{
+  "name": "gimlog",
+  "version": "0.1.0",
+  "description": "Simple, opinionated logging module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karmadev/gimlog.git"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "Joel Baudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karmadev/gimlog/issues"
+  },
+  "homepage": "https://github.com/karmadev/gimlog#readme"
+}
